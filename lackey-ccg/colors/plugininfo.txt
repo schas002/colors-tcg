@@ -1,0 +1,28 @@
+<plugin>
+    <pluginname>Colors</pluginname>
+    <pluginversion>1/161217</pluginversion>
+    <gamezone>
+        <label>Hand</label>
+        <visibletoowner>yes</visibletoowner>
+        <visibletoothers>no</visibletoothers>
+    </gamezone>
+    <gamezone>
+        <label>Deck</label>
+        <visibletoowner>no</visibletoowner>
+        <visibletoothers>no</visibletoothers>
+    </gamezone>
+    <gamezone>
+        <label>Discard</label>
+        <visibletoowner>yes</visibletoowner>
+        <visibletoothers>yes</visibletoothers>
+    </gamezone>
+    <gamezone>
+        <label>Prizes</label>
+        <visibletoowner>no</visibletoowner>
+        <visibletoothers>no</visibletoothers>
+    </gamezone>
+    <phase><label>Draw</label></phase>
+    <phase><label>Deploy</label></phase>
+    <phase><label>Attack</label></phase>
+    <phase><label>End</label></phase>
+</plugin>

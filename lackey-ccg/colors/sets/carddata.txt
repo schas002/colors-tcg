@@ -1,0 +1,14 @@
+Name	Set	ImageFile	Type	Rarity	Set ID	Text
+Blue	BaseSet	BaseSet001.png	Color	Common	BASE-001	Beats Red on the color wheel, but is beaten by Green.
+Green	BaseSet	BaseSet002.png	Color	Common	BASE-002	Beats Blue on the color wheel, but is beaten by Red.
+Cyan	BaseSet	BaseSet003.png	Color	Common	BASE-003	Beats Magenta on the color wheel, but is beaten by Yellow.
+Red	BaseSet	BaseSet004.png	Color	Common	BASE-004	Beats Green on the color wheel, but is beaten by Blue.
+Magenta	BaseSet	BaseSet005.png	Color	Common	BASE-005	Beats Yellow on the color wheel, but is beaten by Cyan.
+Yellow	BaseSet	BaseSet006.png	Color	Common	BASE-006	Beats Cyan on the color wheel, but is beaten by Magenta.
+Black	BaseSet	BaseSet007.png	Action Color	Common	BASE-007	Puts your color at an advantage. Attach to a color of yours.
+White	BaseSet	BaseSet008.png	Action Color	Common	BASE-008	Puts the opposing color at a disadvantage. Attach to a color of yours.
+Miss a Turn	BaseSet	BaseSet009.png	Action	Uncommon	BASE-009	Place on the color wheel. Your opponent won't be able to attack on their turn.
+Turn Around	BaseSet	BaseSet010.png	Action	Uncommon	BASE-010	Place on the color wheel. The attack order will be switched around this turn.
+Take Two	BaseSet	BaseSet011.png	Action	Uncommon	BASE-011	Place on the color wheel. You will draw two cards from your deck.
+Color Order	BaseSet	BaseSet012.png	Action	Rare	BASE-012	Place on the color wheel and choose a color from those in your hand. Your opponent can attack only with that color on their turn.
+Take Four	BaseSet	BaseSet013.png	Action	Rare	BASE-013	Place on the color wheel and choose a color from those in your hand. If your opponent has that color in their hand, they draw four cards from their deck, else you draw four cards from your deck.
